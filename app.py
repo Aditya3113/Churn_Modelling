@@ -70,4 +70,5 @@ else:
 
 
 
-## Trigeer Rebuild
+# Force rebuild: runtime check
+print("Using Python 3.10")
